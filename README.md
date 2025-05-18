@@ -10,6 +10,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/erickcisneros1/Threat-Hunting-Scenario-Tor)**
+- **[Azure Log Analytics & KQL: Security Data Geolocation Projects](https://github.com/erickcisneros1/Portfolio/tree/main/Threat%20Hunting%20Projects/Sentinel%20Workbooks)**
 ## 💼 Portfolio
 
 - **[Other Projects](https://github.com/erickcisneros1/Portfolio/tree/main)**
