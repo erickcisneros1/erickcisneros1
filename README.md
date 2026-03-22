@@ -10,10 +10,14 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/erickcisneros1/Threat-Hunting-Scenario-Tor)**
+- **[Azuki Import/Export Compromise](https://github.com/erickcisneros1/Portfolio/tree/main/Threat%20Hunting%20Projects/Azuki%20Import%20Export%20Compromise)**
+- **[CorpHealth: Traceback](https://github.com/erickcisneros1/Portfolio/tree/main/Threat%20Hunting%20Projects/CorpHealth%3A%20Traceback)**
+- **[The Buyer]()**
+- **[Virus Detection & Device Isolation](https://github.com/erickcisneros1/Portfolio/tree/main/Threat%20Hunting%20Projects/Virus%20Detection%20%26%20Device%20Isolation)**
 - **[Azure Log Analytics & KQL: Security Data Geolocation Projects](https://github.com/erickcisneros1/Portfolio/tree/main/Threat%20Hunting%20Projects/Sentinel%20Workbooks)**
 ## 💼 Portfolio
 
-- **[Other Projects](https://github.com/erickcisneros1/Portfolio/tree/main)**
+- **[All Projects](https://github.com/erickcisneros1/Portfolio/tree/main)**
 <hr/> 
 
 ## 🤳 Connect With Me
